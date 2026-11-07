@@ -1,4 +1,4 @@
-package com.fahrixd
+package com.fahrixd.app
 
 import android.app.Activity
 import android.os.Bundle
