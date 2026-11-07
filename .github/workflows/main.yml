@@ -1,4 +1,4 @@
-name: Build FAHRIXD APK
+name: Build FAHRIXD1 APK
 
 on:
   workflow_dispatch:
