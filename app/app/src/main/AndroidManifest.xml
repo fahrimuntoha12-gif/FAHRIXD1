@@ -1,7 +1,9 @@
+XML
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
     <application
         android:theme="@android:style/Theme.Material.NoActionBar"
-        android:label="FAHRIXD"
+        android:label="FAHRIXD1"
         android:allowBackup="true"
         android:supportsRtl="true">
 
@@ -10,10 +12,11 @@
             android:exported="true">
 
             <intent-filter>
-                <action android:name="android.intent.action.MAIN"/>
-                <category android:name="android.intent.category.LAUNCHER"/>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
 
         </activity>
+
     </application>
 </manifest>
